@@ -38,7 +38,8 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text("""join this group forr help-- @torrentleechgdrivesupport\n\n And also don't forget to fork this repo: <a href="https://github.com/gautamajay52/TorrentLeech-Gdrive">TorrentLeech-Gdrive</a>""", disable_web_page_preview=True)
+    await message.reply_text("""Fuck Off U Lil Bitch🖕🖕 Don't Expect Any Help🖕
+""", disable_web_page_preview=True)
 
 
 async def rename_message_f(client, message):
